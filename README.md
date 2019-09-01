@@ -1,4 +1,4 @@
-# why computer science?
+# why computer science? <img src="http://img.51miz.com/Element/00/21/24/39/d7f14838_E212439_d534ab01.png" width="40" height="40">
 
 <img align="right" src="http://p2.ifengimg.com/a/2016_32/5155f33653cf5d4_size57_w613_h428.jpg" width="305" height="255">
 I think the main reason of why someone would want to study computer science is because it's closely related to almost everything in our life now.
